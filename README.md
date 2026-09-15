@@ -12,7 +12,7 @@
 1. create a requirements.txt file
 2. add, each on a new line, openai, streamlit, python-dotenv
 3. run:
-> pip install -r requirements.text
+> pip install -r requirements.txt
 
 ## Step 3 - create a .env file to store our secrets
 1. create .env file
