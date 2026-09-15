@@ -1,0 +1,46 @@
+Introduction
+9
+loss sustained by him in consequence of the breach; but, with two exceptions, the 
+primary obligations of both parties so far as they have not yet been fully performed 
+remain unchanged. This secondary obligation to pay compensation (damages) for 
+non-performance of primary obligations I will call the “general secondary obliga -
+tion”. 22
+There are difficulties with separating out rights and remedies in this way, as 
+Austin concedes. This is because there are several instances in common law 
+systems where the primary right cannot be described without reference to the 
+injury and the availability of a remedy. Although there are more, two brief 
+examples will be given here.
+First, for some torts, damage is the gist of the cause of action—in other 
+words, it is necessary to show damage in order to make out the primary duty 
+itself—including for malicious falsehood, passing off, and negligence. The pri-
+mary duty is defined in terms of a duty not to cause harm. Second, it has also 
+been argued that the restitution of a mistaken transfer is also not susceptible 
+to an Austinian analysis, because mistaken payment is not a breach of duty.23
+Therefore, Austin’s definition is too narrow, as it does not cover certain 
+court-ordered responses to events that are not based on wrongdoing but none-
+theless give rise to a remedial response, such as unjust enrichment.
+In the context of unjust enrichment, Peter Birks distinguished between 
+‘wrongs’ (breaches of duty including tort, breach of contract, breach of fiduci-
+ary duty, and breach of confidence) and contrasted them with causes of action 
+such as unjust enrichment, which he called ‘not-wrongs’.24 In Birks’ view, the 
+range of remedial responses available for courts in relation to wrongs was 
+wider than that for not-wrongs; the remedial responses for ‘not-wrongs’ were 
+limited to reversing the effects of the transfer.25
+Rafal Zakrzewski, meanwhile, defines remedies as ‘the rights immediately 
+arising from certain judicial commands and statements which aim to redress a 
+pre-suit grievance, usually an actual or threatened infringement of a substan -
+t ive r ig ht’.26
+ 22 [1980] AC 827, 848–49. See Brice Dickson, ‘The Contribution of Lord 
+Diplock to the Law of Contract’ (1989) 9 OJLS 441. 
+ 23 Norman Witzleb, Elise Bant, Simone Degeling and Kit Barker, Remedies: 
+Commentary and Materials  (7th edn, LBC 2020) [1.20]. Cf Kit Barker, ‘Rescuing 
+Remedialism in Unjust Enrichment: Why Remedies are Right’ (1998) 57 Camb 
+LJ 301, 320–22, arguing that the rights-remedy distinction can still be applied to 
+mistaken payments.
+ 24 Peter Birks, ‘Rights, Wrongs and Remedies’ (2000) 20 OJLS 1, 25–36. 
+ 25  ib  id 38.
+ 26 Rafal Zakrzewski, Remedies Reclassified  (OUP 2005) 2. See also Stephen 
+A Smith, ‘Why Courts Make Orders (And What This Tells Us About Damages)’ 
+Katy Barnett and Sirko Harder - 9781035316021
+Downloaded from https://www.elgaronline.com/ at 10/08/2025 03:30:33AM
+via free access

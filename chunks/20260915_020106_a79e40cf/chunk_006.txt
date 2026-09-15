@@ -1,0 +1,46 @@
+Introduction
+5
+For claims that arose purely in the Court of Chancery (also called equity’s 
+original jurisdiction), the courts were ready to compel parties to perform obli-
+gations, strip profits from wrongdoers (accounts of profits), and award reme -
+dies that undid transactions (rescission) or attached remedies to property, even 
+in the hands of third parties (through constructive trusts or liens). In this way, 
+the remedial hierarchy was the inverse of the common law courts.
+However, historically, the Court of Chancery did not generally award com-
+pensation. While equitable compensation is now available for breaches of equi-
+table obligations, such as breaches of fiduciary duty or breaches of confidence, 
+the idea of compensating for wrongdoing has come late to this body of law.
+For common law causes of action, the Court of Chancery would sometimes 
+step in, but only if damages were inadequate, in which case a remedy such 
+as specific performance (ie, an order compelling performance of a contract) 
+or an injunction might be awarded. This was known as equity’s auxiliary 
+jurisdiction.
+In the end, the Court of Chancery became very slow and inefficient.12 There 
+was also a problem with circuitry of actions, created by the dual courts run -
+ning side by side. Suppose, for example, a claimant had a contract for the sale 
+of land (which is generally specifically performable) and went to the Court of 
+Chancery to gain a decree of specific performance. However, because equi -
+table remedies are discretionary, the Court of Chancery declined to award 
+specific performance (for example, there might be unreasonable delay on the 
+claimant’s part, which prejudiced the defendant). The claimant would then 
+have to go to the common law courts and start all over again, using common 
+law forms of action and procedures, to seek damages.
+There were some attempted fixes, including statutes allowing the common 
+law courts to award injunctions, and statutes allowing the Court of Chancery 
+to award damages in lieu of an injunction (Lord Cairns’ Act, dealt with in 
+Chapter 7).
+Ultimately, however, the fixes did not work, and in the 1870s, the English 
+legislature fused the administration of the courts with the Judicature Acts. 13 
+In other words, Parliament abolished the two separate court systems with dif -
+ferent procedures and rules of evidence running side by side. The Judicature 
+Acts allowed a single judge in the one court system to apply both the rules of 
+ 12 A situation famously described by the author Charles Dickens: Charles 
+Dickens, ‘The Martyrs of Chancery’ (1851) 2 Household Words 251; Charles 
+Dickens, ‘The Martyrs of Chancery: Second Article’ (1851) 2 Household Words 
+493; Charles Dickens, Bleak House (1853).
+ 13 The principal among these were the Supreme Court of Judicature Act 1873 
+(36 & 37 Vict. c. 66) and the Supreme Court of Judicature Act 1875 (38 & 39 Vict. 
+c. 77).
+Katy Barnett and Sirko Harder - 9781035316021
+Downloaded from https://www.elgaronline.com/ at 10/08/2025 03:30:33AM
+via free access

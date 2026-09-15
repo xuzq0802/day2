@@ -1,0 +1,41 @@
+Private law remedies
+14
+it is pragmatic and reflects the way in which the law operates in practice. 
+Compensatory damages are a default award for common law actions, so we 
+consider them first. If damages are inadequate, the court may compel per -
+formance, which is why remedies that compel are considered directly after 
+compensation. We then move to the more unusual vindicatory remedies, which 
+seek to recognise the importance of certain rights. Next, we consider remedies 
+that seek to deter, such as the account of profits, which is only exceptionally 
+available at common law. The equitable hierarchical structure is the inverse of 
+this, but it is helpful with a practical book to present the areas of law in a way 
+that maps practice to a degree and gives a clear shape to the law.
+In what follows, the functional structure of this book is discussed, along 
+with some theoretical approaches which may be relevant to the remedy or area 
+in question. We have not been able to divide remedies perfectly between these 
+categories. Lord Cairns’ Act damages present particular difficulties, as they 
+have been argued to perform multiple functions (including compensation and 
+prevention of unjust enrichment). They can also be seen as a monetarised ver-
+sion of specific relief and are therefore placed with specific performance and 
+injunctions in this book.
+One remedy which we discuss in the book does not fit neatly within a func-
+tional scheme. Proprietary remedies fulfil more than one function, and there 
+is no general rule for when they will be awarded, so they are considered in a 
+separate chapter, Chapter 11.
+Chapters 2, 3, 4, 5 and 6: Compensation for Loss
+Chapters 2 and 3 consider the general principles of remedies that seek to com-
+pensate for loss. It is necessary to consider compensation at the outset because 
+of its prevalence and importance in private law. Often, a claimant’s central 
+concern is that they have lost something because of the defendant’s breach. 
+Chapter 2 explores general rules governing the assessment of compensation 
+that are not unique to one cause of action, and which are common at least for 
+common law causes of action. Chapter 3 explores the general rules governing 
+the attribution of responsibility, which are common, at least, to all common 
+law causes of action. Chapters 4, 5, and 6 explore the specific rules for breach 
+of contract, tort, and equitable obligations, respectively.
+On a theoretical basis, some scholars, such as Ernest Weinrib, argue that 
+the only legitimate situation in which a court can intervene in a private law 
+dispute is when there has been a gain on the part of one person and a loss at 
+Katy Barnett and Sirko Harder - 9781035316021
+Downloaded from https://www.elgaronline.com/ at 10/08/2025 03:30:33AM
+via free access

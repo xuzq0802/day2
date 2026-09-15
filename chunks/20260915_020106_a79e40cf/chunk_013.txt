@@ -1,0 +1,41 @@
+Private law remedies
+12
+the common law causes of action, based on Roman law (which had catego -
+ries based on delict, contract, quasi-contract, and quasi-delict in the time of 
+Justinian).32
+Birks argued that there were also four categories in the common law, namely:
+ 1. wrongs;
+ 2. consent;
+ 3. unjust enrichment; and
+ 4. ‘other’.
+He placed tort and equitable wrongs (such as breach of trust or breach of fidu-
+ciary duty) in the category of ‘wrongs’, arguing that the remedy was triggered 
+in each instance by wrongdoing. He placed contract and express trusts (trusts 
+created by the agreement of parties) in the category of ‘consent’ and argued 
+that the remedy was triggered by the consent of the parties. Unjust enrich -
+ment had not historically been recognised as a coherent form of action in the 
+common law, and hence Birks’ elevation of it to stand alongside wrongs and 
+contract was controversial. Importantly, this taxonomy cuts across the histori-
+cal distinctions between common law and equity discussed at the outset of this 
+chapter and encourages us to de-emphasise the historical differences.
+Birks argued that ‘like cases should be treated alike’. He encouraged courts 
+and scholars to analogise wrongs in tort and equity because they had the same 
+‘trigger’ (namely, wrongdoing). For example, if exemplary damages are avail-
+able in tort, it follows that exemplary damages should also be available for 
+equitable wrongdoing because the two have the same trigger (wrongdoing). 
+Similarly, Birks emphasised the similarity of contract and the express trust, on 
+the basis that both arise by consent. Therefore, given that an account of profits 
+(a gain-based award) is available for breach of trust, it should also be available 
+for breach of contract because each arises by consent. Andrew Burrows, now a 
+judge on the United Kingdom Supreme Court, has argued for a greater coher -
+ence between common law and equitable remedies using a Birksian schema.33
+We make particular mention of Birks’s analysis because it has proved influ-
+ential, particularly in England and Wales. It has been less influential in some 
+other parts of the common law world, such as Australia.
+ 32 Paul J du Plessis, Borkowski’s Textbook on Roman Law (6th edn, OUP 2020) 
+[9.1.2.3] 256 –57.
+ 33 Andrew Burrows, ‘We Do This at Common Law but That in Equity’ (2002) 
+22 OJLS 1.
+Katy Barnett and Sirko Harder - 9781035316021
+Downloaded from https://www.elgaronline.com/ at 10/08/2025 03:30:33AM
+via free access

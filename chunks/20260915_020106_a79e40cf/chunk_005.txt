@@ -1,0 +1,44 @@
+Private law remedies
+4
+The presence of two different sets of decision-makers operating according 
+to different rules led to complexity and conflict at times. In the early seven -
+teenth century, it was decided that equity would always prevail over common 
+law.11 This remains the case today. However, the Court of Chancery was reluc-
+tant to trespass too much on the territory of the Royal Courts and only tended 
+to intervene to change a common law remedial decision where common law 
+rules were unable to effect an ‘adequate’ remedy.
+Hence, there are in fact two historical bases for the present common law in 
+a wide sense (namely, judge-made law): the common law in a narrow sense 
+(which derives from the law that the Royal Courts used to apply); and equity 
+(which derives from the law that the Courts of Chancery used to apply). The 
+shadows of this historical division can still be seen in the law today, particu -
+larly in the area of remedies.
+By the seventeenth century, at common law, for causes of action in tort and 
+the collection of causes of action which later became modern contract, com -
+pensatory damages were usually the presumptive remedy. This remains, by 
+and large, the rule today. For tort and contract, it is still presumed (to a lesser or 
+greater degree) that the remedial response is compensatory damages, and any 
+other remedy is exceptional. However, as we will see, in some situations, spe-
+cific relief (ie, specific performance or an injunction) will be readily granted, 
+particularly in relation to interests in real (or immovable) property.
+Historically, tort (the law of civil wrongs) and the law of criminal wrongs 
+were also intertwined. Even now, some common law torts have criminal equiv-
+alents (eg, criminal assault versus tortious assault). Until the eighteenth cen -
+tury, the victim of a criminal offence privately prosecuted the wrongdoer; in 
+modern times, on the other hand, it has been the state which has prosecuted 
+the wrongdoer for such offences. The historical lack of separation between tort 
+and criminal law has given rise to some oddities. In tort, a claimant can seek 
+exemplary damages (called ‘punitive damages’ in the United States) which 
+seek to punish the defendant for the wrong committed. The extent to which 
+such damages should be available outside tort (or even, outside a narrowly 
+defined set of circumstances within tort) remains controversial.
+Conversely, the Courts of Chancery typically dealt with every remedy 
+except compensation. The Court of Chancery was also more discretionary 
+than the common law courts (reflecting the conscience-based approach) and 
+had its own rules of evidence, procedure, and terminology. For example, a 
+‘defence’ in common law is called a ‘bar to relief’ in equity, and the bars to 
+relief are typically highly discretionary.
+ 11 Earl of Oxford’s Case (1615) 1 Ch Rep 1, (1615) 21 ER 485.
+Katy Barnett and Sirko Harder - 9781035316021
+Downloaded from https://www.elgaronline.com/ at 10/08/2025 03:30:33AM
+via free access

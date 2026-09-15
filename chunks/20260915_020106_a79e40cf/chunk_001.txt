@@ -1,0 +1,33 @@
+1
+1. Introduction to Private Law Remedies
+ 1 The decisions of superior courts in other common law countries such as 
+Australia, New Zealand and Canada are not binding upon the United Kingdom 
+courts but may be persuasive.
+ 2 Letang v Cooper [1965] 1 QB 232, 243.
+ 3 Frederick W Maitland, The Forms of Action at Common Law: A Course of 
+Lectures (CUP 1958) 1–5.
+INTRODUCTION TO REMEDIES LAW
+This chapter outlines key concepts, including the history of remedies law, what 
+a remedy is, how remedies work, what the theoretical debates are, and what the 
+functions of remedies in private law are.
+While the focus of this book will be on the common law of England, we 
+will, at times, also refer to the law in other common law jurisdictions to illus -
+trate our discussion.1
+It is important for civilian readers to note that the common law legal system 
+is not a system that has arisen by design; it has no overarching Code. Rather, 
+it is a system that has evolved, over a long period of time: from its origins in 
+twelfth-century medieval England to the present day. It has been adopted in 
+many Commonwealth and former Commonwealth jurisdictions, including the 
+United States, Canada, Australia, New Zealand, Hong Kong, and Singapore. 
+Consequently, there is no consistent direction to the law, and the system has 
+evolved to fit different circumstances, times, and places. Moreover, histori -
+cally, different courts have dealt with different matters and remedies. The long 
+shadows cast by this history can still be seen in the law today.
+In Letang v Cooper, Diplock LJ noted that, historically, in English law, rem-
+edies were often considered before any analysis of primary rights and obliga -
+tions because of the way in which common law court procedure focused on 
+the causes of action.2 As long as a claimant could make out a particular ‘form 
+of action’, they could then obtain a remedy. The English Kings established the 
+Royal Courts to apply the common law and operated according to a system of 
+writs which stipulated particular processes for particular causes of action, and 
+particular remedial consequences flowed from that choice. 3 This led lawyers
